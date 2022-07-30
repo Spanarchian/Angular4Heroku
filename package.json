@@ -1,9 +1,9 @@
 {
   "name": "angular4heroku",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "engines": {
-    "node": "12.18.2",
-    "npm": "6.14.5"
+    "node": "16.14.2",
+    "npm": "8.5.0"
   },
   "scripts": {
     "ng": "ng",
